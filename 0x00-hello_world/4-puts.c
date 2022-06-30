@@ -1,5 +1,7 @@
 #include <stdio.h>
-/** main - entry point
+/** 
+ * main - entry point
+ * description of main
  *
  * Return: Always 0 (success)
  */
