@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the size of various types
+ * main - Prints the standard error
  * Return: Always 0 if exited properly, non zero otherwise
  */
 int main(void)
